@@ -1,0 +1,22 @@
+{
+  "base_version": 1,
+  "requested_by": "local-reviewer",
+  "idempotency_key": "skin-weight-demo-0001",
+  "operations": [
+    {
+      "kind": "set_skin_weights",
+      "mesh_id": "22222222-2222-4222-8222-222222222222",
+      "vertex_index": 1,
+      "influences": [
+        {
+          "joint_index": 0,
+          "weight": 0.25
+        },
+        {
+          "joint_index": 1,
+          "weight": 0.75
+        }
+      ]
+    }
+  ]
+}

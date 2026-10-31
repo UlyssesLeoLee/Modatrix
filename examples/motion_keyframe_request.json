@@ -1,0 +1,20 @@
+{
+  "base_version": 1,
+  "requested_by": "local-reviewer",
+  "idempotency_key": "motion-demo-0001",
+  "operations": [
+    {
+      "kind": "upsert_keyframe",
+      "clip_id": "33333333-3333-4333-8333-333333333333",
+      "joint_index": 1,
+      "channel": "rotation",
+      "time_ms": 500,
+      "value": [
+        0.0,
+        0.0,
+        0.3826834,
+        0.9238795
+      ]
+    }
+  ]
+}

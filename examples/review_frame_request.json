@@ -1,0 +1,16 @@
+{
+  "asset_version": 1,
+  "camera_position": [
+    2.0,
+    1.5,
+    4.0
+  ],
+  "camera_target": [
+    0.0,
+    0.8,
+    0.0
+  ],
+  "selected_anchor": "mesh:22222222-2222-4222-8222-222222222222/vertex:1",
+  "motion_time_ms": 500,
+  "comment": "左臂姿态需要更自然，检查肘部权重和第 500ms 的旋转。"
+}

@@ -1,0 +1,10 @@
+[workspace]
+
+[package]
+name = "frameforge3d-desktop-shell"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+bevy = "0.20.1"
